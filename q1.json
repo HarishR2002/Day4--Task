@@ -1,0 +1,30 @@
+
+{
+    "name": "Harish",
+    "contact": {
+      "email": "harish@gmail.com",
+      "phone": "+91 9876543210",
+      "address": "123 Main St, Anytown, India"
+    },
+    "education": [
+      {
+        "degree": "Bachelor of Computer Application",
+        "school": "University of Anytown",
+        "graduation_year": 2023
+      }
+    ],
+    "experience": [
+      {
+        "title": "Software Developer",
+        "company": "TechCorp",
+        "start_date": "2023-01-01",
+        "end_date": "2023-12-31",
+        "description": "Worked on various projects involving web development and software engineering."
+      }
+    ],
+    "skills": [
+      "React Native",
+      "Full Stack Development"
+    ]
+  }
+  
